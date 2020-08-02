@@ -54,7 +54,7 @@ yarn web
 
 ## Demo
 
-<img src="assets/todo-demo.png" >
+<img src="assets/todo-demo.png" width="350" >
 
 ## Code 
 
